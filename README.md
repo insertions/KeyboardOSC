@@ -2,7 +2,7 @@
 
 I'm not the author of this software.
 
-It has beed developed by [Gene Kogan](https://twitter.com/genekogan) as part of the ['Machine Learning for Artists repository'](http://ml4a.github.io/).
+It has beed developed by [Gene Kogan](https://twitter.com/genekogan) as part of the ['Machine Learning for Artists'] (http://ml4a.github.io/) repository.
 
 The code has been forked here because we plan to use it in our insertions workshop at the Eastern Bloc.
 
